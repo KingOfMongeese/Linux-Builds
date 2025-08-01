@@ -1,0 +1,14 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "editor.semanticTokenColorCustomizations": {},
+    "editor.tokenColorCustomizations": {
+        "strings": "#3fe61a",
+        "functions": "#9c42e4",
+        "variables": "#FFBF00",
+        "numbers": "#FF0000"
+    },
+    "files.trimTrailingWhitespace": true,
+}
